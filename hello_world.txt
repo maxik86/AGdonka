@@ -3,4 +3,4 @@ Modified content
 
 changes from rodnikovlad
 
-conflict str
+conflict str123
